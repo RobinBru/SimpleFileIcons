@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-35.68 -49.425)">
+  <path d="m43.597 49.425c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#eabeae;paint-order:normal"/>
+  <path d="m62.649 49.425v8.5865h8.5865" style="fill-rule:evenodd;fill:#db9176;paint-order:normal"/>
+  <circle cx="59.536" cy="70.73" r="6.9717" style="fill-rule:evenodd;fill:#db8464;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
+  <rect x="35.68" y="59.419" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#c95c43"/>
+  <text x="41.546963" y="76.553619" style="fill-rule:evenodd;fill:#ffffff;font-family:'Noto Sans';font-size:16.314px;font-weight:bold;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" xml:space="preserve"><tspan x="41.546963" y="76.553619" style="fill:#ffffff;stroke-width:17.295">P</tspan></text>
+  <path d="m59.535 63.758v6.9717h6.9717a6.9717 6.9717 0 0 0-6.9717-6.9717z" style="fill-rule:evenodd;fill:#e7a98e;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
+ </g>
+</svg>
