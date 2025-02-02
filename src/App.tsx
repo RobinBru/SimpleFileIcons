@@ -1,37 +1,44 @@
 import FileIcon from "./FileIcons/FileIcon";
+import "./index.css";
 
 function App() {
   return (
-    <div
-      style={{
-        display: "grid",
-        placeItems: "center",
-        height: "100vh",
-        inset: 0
-      }}
-    >
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "repeat(4, 1fr)",
-          placeItems: "center",
-          width: "fit-content",
-          gap: 40,
-        }}
-      >
-        <FileIcon extension="docx" size={100} />
-        <FileIcon extension="xlsx" size={100} />
-        <FileIcon extension="ppt" size={100} />
-        <FileIcon extension="pdf" size={100} />
-        <FileIcon extension="png" size={100} />
-        <FileIcon extension="mp3" size={100} />
-        <FileIcon extension="mp4" size={100} />
-        <FileIcon extension="eml" size={100} />
-        <FileIcon extension="zip" size={100} />
-        <FileIcon extension="ini" size={100} />
-        <FileIcon extension="py" size={100} />
-        <FileIcon extension="msg" size={100} />
-        <FileIcon extension="txt" size={100} />
+    <div className="center">
+      <div className="grid-large  ">
+        <FileIcon extension="docx" size={50} />
+        <FileIcon extension="xlsx" size={50} />
+        <FileIcon extension="ppt" size={50} />
+        <FileIcon extension="pdf" size={50} />
+        <FileIcon extension="png" size={50} />
+        <FileIcon extension="mp3" size={50} />
+        <FileIcon extension="mp4" size={50} />
+        <FileIcon extension="eml" size={50} />
+        <FileIcon extension="zip" size={50} />
+        <FileIcon extension="ini" size={50} />
+        <FileIcon extension="py" size={50} />
+        <FileIcon extension="msg" size={50} />
+        <FileIcon extension="txt" size={50} />
+        <FileIcon extension="csv" size={50} />
+        <FileIcon extension="rtf" size={50} />
+        <FileIcon extension="odp" size={50} />
+      </div>
+      <div className="grid-small">
+        <FileIcon extension="docx" size={24} />
+        <FileIcon extension="xlsx" size={24} />
+        <FileIcon extension="ppt" size={24} />
+        <FileIcon extension="pdf" size={24} />
+        <FileIcon extension="png" size={24} />
+        <FileIcon extension="mp3" size={24} />
+        <FileIcon extension="mp4" size={24} />
+        <FileIcon extension="eml" size={24} />
+        <FileIcon extension="zip" size={24} />
+        <FileIcon extension="ini" size={24} />
+        <FileIcon extension="py" size={24} />
+        <FileIcon extension="msg" size={24} />
+        <FileIcon extension="txt" size={24} />
+        <FileIcon extension="csv" size={24} />
+        <FileIcon extension="rtf" size={24} />
+        <FileIcon extension="odp" size={24} />
       </div>
     </div>
   );

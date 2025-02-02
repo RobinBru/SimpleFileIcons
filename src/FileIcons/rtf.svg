@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(70.248 -68.063)">
+  <path d="m-62.332 68.063c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8848 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#bdd5f1;paint-order:normal"/>
+  <path d="m-43.279 68.063v8.5865h8.5865" style="fill-rule:evenodd;fill:#77a2dc;paint-order:normal"/>
+  <rect x="-70.248" y="78.191" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#3878cd;paint-order:stroke markers fill"/>
+  <g transform="translate(-1.1481e-5 .42365)">
+   <path d="m-58.326 85.286h3.959" style="fill-rule:evenodd;fill:#6d85a7;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.8518;stroke:#fff"/>
+   <path d="m-63.507 89.502h9.1405" style="fill-rule:evenodd;fill:#6d85a7;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.8518;stroke:#fff"/>
+   <path d="m-63.507 93.718h9.1405" style="fill-rule:evenodd;fill:#6d85a7;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.8518;stroke:#fff"/>
+   <rect x="-64.433" y="83.513" width="3.5465" height="3.5465" rx="1.4367" ry="1.4367" style="fill-rule:evenodd;fill:#fff"/>
+  </g>
+ </g>
+</svg>

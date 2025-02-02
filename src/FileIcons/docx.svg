@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-48.504 -30.788)">
-  <path d="m56.421 30.788c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8848 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#bdd5f1;paint-order:normal"/>
-  <path d="m65.438 47.418h10.916" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
-  <path d="m61.587 52.092h14.767" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
-  <path d="m75.473 30.788v8.5865h8.5865" style="fill-rule:evenodd;fill:#77a2dc;paint-order:normal"/>
-  <path d="m65.438 56.766h10.916" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
-  <rect x="48.504" y="40.916" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#3878cd"/>
-  <text x="51.927177" y="57.916016" style="fill-rule:evenodd;fill:#ffffff;font-family:'Noto Sans';font-size:16.314px;font-weight:bold;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" xml:space="preserve"><tspan x="51.927177" y="57.916016" style="fill:#ffffff;stroke-width:17.295">W</tspan></text>
+ <path d="m7.9164 0c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#bdd5f1;paint-order:normal"/>
+ <path d="m16.934 16.63h10.916" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
+ <path d="m13.083 21.304h14.767" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
+ <path d="m26.969 0v8.5865h8.5865" style="fill-rule:evenodd;fill:#77a2dc;paint-order:normal"/>
+ <path d="m16.934 25.978h10.916" style="fill-rule:evenodd;fill:#3878cd;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.3036;stroke:#77a2dc"/>
+ <rect y="10.129" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#3878cd"/>
+ <g style="fill-rule:evenodd;fill:#fff;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" aria-label="W">
+  <path d="m19.199 15.48-2.9691 11.648h-2.806l-1.5824-6.1177q-0.04894-0.17945-0.13051-0.53836-0.06526-0.35891-0.16314-0.78307-0.08157-0.42416-0.14682-0.79938-0.06526-0.39153-0.09788-0.60361-0.01631 0.21208-0.09788 0.60361-0.06526 0.37522-0.14682 0.79938-0.08157 0.40785-0.16314 0.78307-0.08157 0.3589-0.13051 0.55467l-1.5661 6.1014h-2.806l-2.9691-11.648h2.4308l1.4846 6.3624q0.097883 0.37522 0.21208 0.94621 0.1142 0.57099 0.21208 1.142 0.097883 0.57099 0.14683 0.96252 0.048942-0.40785 0.14683-0.96252 0.097883-0.57099 0.19577-1.093 0.1142-0.53836 0.19577-0.83201l1.6966-6.5256h2.3329l1.6966 6.5256q0.08157 0.27734 0.17945 0.8157 0.1142 0.53836 0.21208 1.1093 0.09788 0.57099 0.14682 0.96252 0.04894-0.40785 0.14683-0.96252 0.09788-0.57099 0.21208-1.142 0.13051-0.57099 0.21208-0.94621l1.4846-6.3624z"/>
  </g>
 </svg>

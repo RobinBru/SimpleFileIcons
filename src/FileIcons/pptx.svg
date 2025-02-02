@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-35.68 -49.425)">
-  <path d="m43.597 49.425c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#eabeae;paint-order:normal"/>
-  <path d="m62.649 49.425v8.5865h8.5865" style="fill-rule:evenodd;fill:#db9176;paint-order:normal"/>
-  <circle cx="59.536" cy="70.73" r="6.9717" style="fill-rule:evenodd;fill:#db8464;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
-  <rect x="35.68" y="59.419" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#c95c43"/>
-  <text x="41.546963" y="76.553619" style="fill-rule:evenodd;fill:#ffffff;font-family:'Noto Sans';font-size:16.314px;font-weight:bold;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" xml:space="preserve"><tspan x="41.546963" y="76.553619" style="fill:#ffffff;stroke-width:17.295">P</tspan></text>
-  <path d="m59.535 63.758v6.9717h6.9717a6.9717 6.9717 0 0 0-6.9717-6.9717z" style="fill-rule:evenodd;fill:#e7a98e;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
+ <path d="m7.9164 0c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#eabeae;paint-order:normal"/>
+ <path d="m26.969 0v8.5865h8.5865" style="fill-rule:evenodd;fill:#db9176;paint-order:normal"/>
+ <circle cx="23.855" cy="21.304" r="6.9717" style="fill-rule:evenodd;fill:#db8464;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
+ <rect x="1.7764e-15" y="9.9934" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#c95c43"/>
+ <g style="fill-rule:evenodd;fill:#fff;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" aria-label="P">
+  <path d="m11.055 15.48q2.2513 0 3.2791 0.97883 1.0441 0.96252 1.0441 2.6592 0 1.0115-0.42416 1.9087-0.42416 0.88095-1.4193 1.4193-0.97883 0.53836-2.6755 0.53836h-1.0604v4.1437h-2.4634v-11.648zm-0.13051 2.0229h-1.1257v3.4585h0.8157q1.0441 0 1.6477-0.40785 0.61993-0.42416 0.61993-1.3541 0-1.6966-1.9577-1.6966z"/>
  </g>
+ <path d="m23.855 14.332v6.9717h6.9717a6.9717 6.9717 0 0 0-6.9717-6.9717z" style="fill-rule:evenodd;fill:#e7a98e;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2595"/>
 </svg>

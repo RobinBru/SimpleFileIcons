@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-48.778 -30.788)">
-  <path d="m56.694 30.788c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#acdccc;paint-order:normal"/>
-  <rect x="66.562" y="47.729" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
-  <rect x="73.92" y="47.729" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
-  <rect x="66.562" y="53.276" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
-  <rect x="73.92" y="53.276" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
-  <path d="m75.747 30.788v8.5865h8.5864" style="fill-rule:evenodd;fill:#76bca6;paint-order:normal"/>
-  <rect x="48.778" y="40.916" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#228b6a;paint-order:stroke markers fill"/>
-  <text x="54.532742" y="57.916016" style="fill-rule:evenodd;fill:#ffffff;font-family:'Noto Sans';font-size:16.314px;font-weight:bold;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" xml:space="preserve"><tspan x="54.532742" y="57.916016" style="fill:#ffffff;stroke-width:17.295">X</tspan></text>
+ <path d="m7.9164 0c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#b7dcd0;paint-order:normal"/>
+ <rect x="17.785" y="16.942" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
+ <rect x="25.142" y="16.942" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
+ <rect x="17.785" y="22.488" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
+ <rect x="25.142" y="22.488" width="4.8367" height="2.8165" rx="0" ry="0" style="fill:none;paint-order:normal;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7292;stroke:#67b49c"/>
+ <path d="m26.969 0v8.5865h8.5864" style="fill-rule:evenodd;fill:#76bca6;paint-order:normal"/>
+ <rect y="10.129" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#228b6a;paint-order:stroke markers fill"/>
+ <g style="fill-rule:evenodd;fill:#fff;paint-order:stroke markers fill;stroke-linecap:round;stroke-linejoin:round;stroke-width:17.295" aria-label="X">
+  <path d="m16.636 27.128h-2.8223l-2.7081-4.4048-2.7081 4.4048h-2.6429l3.8664-6.0035-3.6217-5.6446h2.7244l2.5123 4.1927 2.4634-4.1927h2.6592l-3.6543 5.7751z"/>
  </g>
 </svg>

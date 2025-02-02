@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="35.556mm" height="38.835mm" version="1.1" viewBox="0 0 35.556 38.835" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-4.1963 -22.273)">
-  <path d="m12.113 22.273c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#cbbbed;paint-order:normal"/>
-  <rect x="23.355" y="37.334" width="11.828" height="12.757" rx="1.4898" ry="1.4898" style="fill-rule:evenodd;fill:#aa89db"/>
-  <path d="m31.166 22.273v8.5865h8.5865" style="fill-rule:evenodd;fill:#af91e3;paint-order:normal"/>
-  <rect x="31.205" y="38.561" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
-  <rect x="25.819" y="38.561" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
-  <rect x="31.205" y="46.812" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
-  <rect x="25.819" y="46.812" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
-  <rect x="4.1963" y="32.402" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#865dc2;paint-order:stroke markers fill"/>
-  <path transform="matrix(.065832 0 0 .065832 -144.98 13.566)" d="m2485.9 457.93-78.979 45.599v-91.197z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.798;stroke:#fff"/>
- </g>
+ <path d="m7.9164 0c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8847 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#cbbbed;paint-order:normal"/>
+ <rect x="19.158" y="15.061" width="11.828" height="12.757" rx="1.4898" ry="1.4898" style="fill-rule:evenodd;fill:#aa89db"/>
+ <path d="m26.969 0v8.5865h8.5865" style="fill-rule:evenodd;fill:#af91e3;paint-order:normal"/>
+ <rect x="27.009" y="16.288" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
+ <rect x="21.623" y="16.288" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
+ <rect x="27.009" y="24.539" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
+ <rect x="21.623" y="24.539" width="2.5403" height="1.829" rx=".49401" ry=".49401" style="fill-rule:evenodd;fill:#c2aeea"/>
+ <rect x="8.8818e-16" y="10.129" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#865dc2;paint-order:stroke markers fill"/>
+ <path transform="matrix(.065832 0 0 .065832 -149.18 -8.7076)" d="m2485.9 457.93-78.979 45.599v-91.197z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.798;stroke:#fff"/>
 </svg>

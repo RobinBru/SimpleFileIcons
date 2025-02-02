@@ -1,0 +1,25 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  height: 100vh;
+  inset: 0;
+}
+
+.grid-large {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+  width: fit-content;
+  gap: 30px;
+}
+
+.grid-small {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+  width: fit-content;
+  gap: 20px;
+}

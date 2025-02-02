@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="35.875mm" height="38.835mm" version="1.1" viewBox="0 0 35.875 38.835" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(39.062 -100.47)">
-  <path d="m-30.827 100.47c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8848 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#e9d5af;paint-order:normal"/>
-  <path d="m-11.774 100.47v8.5865h8.5865" style="fill-rule:evenodd;fill:#d6b57b;paint-order:normal"/>
-  <rect x="-39.062" y="110.38" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#cc9220;paint-order:stroke markers fill"/>
-  <rect x="-27.963" y="121.99" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
-  <circle cx="-27.963" cy="129.19" r="2.0065" style="fill-rule:evenodd;fill:#fff"/>
-  <rect x="-30.455" y="119.71" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
-  <rect x="-27.963" y="117.26" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
-  <rect x="-30.579" y="114.83" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
-  <rect x="-27.963" y="112.4" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
-  <rect x="-29.97" y="125.36" width="4.0129" height="4.5547" rx=".74424" ry=".74424" style="fill-rule:evenodd;fill:#fffefc"/>
-  <ellipse cx="-27.963" cy="129.19" rx="1.0012" ry=".97794" style="fill-rule:evenodd;fill:#cc9220"/>
- </g>
+ <path d="m8.2355 0c-2.3415 0-4.2262 1.885-4.2262 4.2265v30.382c0 2.3415 1.8848 4.2265 4.2262 4.2265h23.413c2.3415 0 4.2265-1.885 4.2265-4.2265v-26.022l-8.5865-8.5865z" style="fill-rule:evenodd;fill:#e9d5af;paint-order:normal"/>
+ <path d="m27.288 0v8.5865h8.5865" style="fill-rule:evenodd;fill:#d6b57b;paint-order:normal"/>
+ <rect y="9.9058" width="22.622" height="22.622" rx="5.8839" ry="5.8839" style="fill-rule:evenodd;fill:#cc9220;paint-order:stroke markers fill"/>
+ <circle cx="11.224" cy="26.376" r="2.0065" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="8.6077" y="19.237" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="11.099" y="16.782" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="8.4833" y="14.353" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="11.099" y="11.923" width="2.6161" height="2.4296" rx=".90954" ry="1.2148" style="fill-rule:evenodd;fill:#fff"/>
+ <rect x="9.2174" y="22.546" width="4.0129" height="4.5547" rx=".74424" ry=".74424" style="fill-rule:evenodd;fill:#fffefc"/>
+ <ellipse cx="11.224" cy="26.376" rx="1.0012" ry=".97794" style="fill-rule:evenodd;fill:#cc9220"/>
 </svg>
